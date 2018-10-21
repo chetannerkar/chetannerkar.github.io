@@ -432,7 +432,7 @@ __webpack_require__.r(__webpack_exports__);
 Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"])();
 var Globals = /** @class */ (function () {
     function Globals() {
-        this.serverUrl = 'http://3squareit.com/gorides_webservices/';
+        this.serverUrl = 'https://3squareit.com/gorides_webservices/';
     }
     return Globals;
 }());
